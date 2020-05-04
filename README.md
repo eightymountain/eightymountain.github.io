@@ -1,2 +1,1 @@
-# testA.github.io
-testA
+# dave.kr
