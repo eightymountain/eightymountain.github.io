@@ -1,1 +1,1 @@
-# dave.kr
+[dave.kr](https://dave.kr)
